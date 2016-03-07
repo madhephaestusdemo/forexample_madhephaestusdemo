@@ -1,4 +1,5 @@
-for (int i = 1; i <= 1001; i += 2)
-    {
-      System.out.println(i);
-    }
+println "Print all numbers from 0 to 999"
+for (int i = 0; i < 1000; i += 1)
+{
+ println i
+}
